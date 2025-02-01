@@ -1,4 +1,4 @@
-# deepseek-r1-chatbot-speech
+# deepseek-r1-chatbot-speech-azure
 
 Este projeto integra o modelo de linguagem **DeepSeek-R1** da **Azure AI** com o serviço de síntese de fala **Azure Speech**. O objetivo é criar um assistente virtual que interage com o usuário em português brasileiro, respondendo a perguntas por meio de texto e voz.
 
