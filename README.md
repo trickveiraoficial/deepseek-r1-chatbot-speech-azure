@@ -28,7 +28,7 @@ Antes de rodar o código, você precisa configurar as chaves de API para o Azure
 
 ```python
 # Configurações do Azure AI Foundry
-ENDPOINT = "https://patri-m6m1utno-francecentral.services.ai.azure.com/models"
+ENDPOINT = "SEU-ENDPOINT-DO-MODELO"
 API_KEY = "SUA_API_KEY_AQUI"
 
 # Configurações do Azure Speech para síntese de fala
