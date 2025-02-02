@@ -24,7 +24,7 @@ client = ChatCompletionsClient(
 
 # Histórico de mensagens
 messages = [
-    SystemMessage(content="Você é uma assistente útil. Responda em português-brasileiro"),
+    SystemMessage(content="Você é uma assistente útil. Responda em português-brasileiro"), # Você pode modificar conforme a sua necessidade
 ]
 
 print("🔹 Chat com DeepSeek-R1 iniciado! Digite 'sair' para encerrar.")
